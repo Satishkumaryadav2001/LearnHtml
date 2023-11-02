@@ -1,0 +1,19 @@
+header{
+	background-color:skyblue;
+	height:300px;
+	width:1500px;
+}
+h1{
+	text-align: center;
+}
+nav{
+	height:50px;
+	width:1500px;
+	background-color:orange;
+	color:white;
+	word-spacing:45px;
+	letter-spacing:5px;
+}
+main{
+	text-align:center;
+}
