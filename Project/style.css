@@ -17,3 +17,16 @@ nav{
 main{
 	text-align:center;
 }
+footer{
+	text-align: center;
+	text-shadow: 0cqmax;
+	background-color: rgb(37, 169, 4);
+	padding: 20px;
+	color: white;
+
+
+}
+footer a{
+	color: rgb(0, 255, 255);
+	
+}
