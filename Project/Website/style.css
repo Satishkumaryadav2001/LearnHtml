@@ -1,0 +1,32 @@
+header{
+	background-color:skyblue;
+	height:300px;
+	width:1500px;
+}
+h1{
+	text-align: center;
+}
+nav{
+	height:50px;
+	width:1500px;
+	background-color:orange;
+	color:white;
+	word-spacing:45px;
+	letter-spacing:5px;
+}
+main{
+	text-align:center;
+}
+footer{
+	text-align: center;
+	text-shadow: 0cqmax;
+	background-color: rgb(37, 169, 4);
+	padding: 20px;
+	color: white;
+
+
+}
+footer a{
+	color: rgb(0, 255, 255);
+	
+}
